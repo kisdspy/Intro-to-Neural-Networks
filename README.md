@@ -2,10 +2,10 @@
 
 ## Введение в нейронные сети
 
-Этот курс, созданный Сергеем Балакириевым, предлагает детальное введение в нейронные сети и их применение. 
-Оригинальный видео-контент: https://youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&si=cHJfbDbLf4NLIbwJ
-Оригинальный консект: https://proproprogs.ru/neural_network
-Оригинальный код: https://github.com/selfedu-rus/neural-network
+Этот курс, созданный Сергеем Балакириевым, предлагает детальное введение в нейронные сети и их применение     
+Оригинальный видео-контент: https://youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&si=cHJfbDbLf4NLIbwJ    
+Оригинальный конспект: https://proproprogs.ru/neural_network     
+Оригинальный код: https://github.com/selfedu-rus/neural-network     
 
 Курс дополняется примерами и пояснениями с использованием ChatGPT для лучшего понимания материалов.
 
